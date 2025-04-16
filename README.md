@@ -1,11 +1,13 @@
 # TChat
 
 <p align="center">
-  <img src="https://chat.novila.xyz/favicon.svg" alt="TChat Logo" width="150" />
+  <a href="https://chat.novila.xyz">
+    <img src="https://chat.novila.xyz/favicon.svg" alt="TChat Logo" width="150" />
+  </a>
 </p>
 
 <p align="center">
-  A modern, real-time chat application with AI assistant integration
+  A modern, real-time chat application
 </p>
 
 ## 📝 Project Overview
@@ -36,7 +38,7 @@ What makes TChat special is its combination of traditional messaging with an AI 
 - **Android App**: Available as both a web application and Android APK
 
 ### Security & Privacy
-- **Secure Authentication**: Email/password and social sign-in options
+- **Secure Authentication**: Email/password and Google sign-in options
 - **Email Verification**: Added security layer for new accounts
 
 ## 🎯 How TChat Works
@@ -53,8 +55,13 @@ The announcement system similarly allows for dynamic content updates without req
 - **Advanced Code Handling**: Share code with proper syntax highlighting and a copy button
 - **Available Everywhere**: Use on the web or download the Android application
 
+## 😎 Try TChat
+- **Web**: <a href="https://chat.novila.xyz">chat.novila.xyz</a>
+- **Android App**: <a href="https://chat.novila.xyz/download">chat.novila.xyz/download</a>
+- **Windows App**: <a href="https://chat.novila.xyz">COMING SOON</a>
+
 ---
 
 <p align="center">
-  Made with ❤️ by Friyn
+  Made with ❤️ by <a href="https://github.com/friyn/">Friyn</a>
 </p>
