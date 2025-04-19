@@ -28,7 +28,6 @@ What makes TChat special is its combination of traditional messaging with an AI 
 
 ### AI Integration
 - **Built-in AI Assistant**: Chat with an AI powered by Google's Gemini technology
-- **Customizable AI Behavior**: The AI personality can be modified through the database settings
 - **Code Understanding**: The AI can help with coding questions and format code snippets properly
 
 ### User Experience
