@@ -57,7 +57,7 @@ The announcement system similarly allows for dynamic content updates without req
 ## 😎 Try TChat
 - **Web**: <a href="https://chat.novila.xyz">chat.novila.xyz</a>
 - **Android App**: <a href="https://chat.novila.xyz/download">chat.novila.xyz/download</a>
-- **Windows App**: <a href="https://chat.novila.xyz">COMING SOON</a>
+- **Windows App**: <a href="https://chat.novila.xyz/download">chat.novila.xyz/download</a>
 
 ---
 
