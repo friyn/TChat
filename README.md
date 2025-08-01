@@ -10,13 +10,13 @@
   A modern, real-time chat application
 </p>
 
-## 📝 Project Overview
+## Project Overview
 
 TChat is a full-featured messaging platform that combines traditional chat functionality with artificial intelligence to create a more dynamic communication experience. The application allows users to chat with other people in real-time while also offering an integrated AI assistant powered by Google's Gemini API.
 
 What makes TChat special is its combination of traditional messaging with an AI assistant that can be customized to fit specific needs. Whether you need help with information, want to brainstorm ideas, or just have a friendly conversation, the AI assistant adapts to your preferences.
 
-## ✨ Key Features
+## Key Features
 
 ### Core Chat Experience
 - **Real-time Messaging**: Messages appear instantly without needing to refresh
@@ -40,7 +40,7 @@ What makes TChat special is its combination of traditional messaging with an AI 
 - **Secure Authentication**: Email/password and Google sign-in options
 - **Email Verification**: Added security layer for new accounts
 
-## 🎯 How TChat Works
+## How TChat Works
 
 TChat uses Firebase for its backend infrastructure, providing reliable real-time data synchronization and user authentication. The front end is built with React for a responsive and dynamic user interface.
 
@@ -48,13 +48,13 @@ The AI assistant functionality integrates Google's Generative AI (Gemini) to pro
 
 The announcement system similarly allows for dynamic content updates without requiring code changes. Administrators can push new announcements that appear for all users until dismissed.
 
-## 🌟 What Makes TChat Unique
+## What Makes TChat Unique
 
 - **Seamless AI Integration**: The AI assistant feels like a natural part of the chat experience
 - **Advanced Code Handling**: Share code with proper syntax highlighting and a copy button
 - **Available Everywhere**: Use on the web or download the Android application
 
-## 😎 Try TChat
+## Try TChat
 - **Web**: <a href="https://chat.novila.xyz">chat.novila.xyz</a>
 - **Android App**: <a href="https://chat.novila.xyz/download">chat.novila.xyz/download</a>
 - **Windows App**: <a href="https://chat.novila.xyz/download">chat.novila.xyz/download</a>
